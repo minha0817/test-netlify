@@ -3,7 +3,7 @@ import Link from "next/link";
 const HomePage = () => {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Test Netlify Delployment</h1>
       <Link href="/product">
         <p>Product</p>
       </Link>
